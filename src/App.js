@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const handleLink = async () => {
     console.log("Clicked");
-    window.open("https://www.google.com/", "_blank", "noreferrer");
+    window.open("http://bpsdashboard/PagesZiraat/ZiraatLogin.aspx?rd=d63XLE4Sf7Xf4CbVPZ8UH57pBj/LTfZkeyurllH3MXH1mqJe9P+8ZP8Be2h6Rixnv7U7tuetKZZWUvnFFPFUy4IobfNDOhRg=&t=FWc0mQq4INoUNPNWA==&guidn=", "_blank", "noreferrer");
 
   }
   return (
